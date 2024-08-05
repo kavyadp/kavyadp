@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavyadp
-- 👀 I’m interested in Big data & Data science projects
-- 🌱 I’m currently learning Data Analsyis
+- 👀 I’m interested in Machine Learning and Deep Learning projects
+- 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me : linkedin- linkedin.com/in/kavya-d-p-06a632217
 
 <!---
